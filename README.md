@@ -11,6 +11,12 @@
 
 ---
 
+### 📂 Repositorios destacados
+
+- [Haking_etico](https://github.com/N0gales/Haking_etico): Contiene algunos niveles de *Bandit* de OverTheWire para practicar seguridad y hacking ético.  
+- [Learning-C](https://github.com/N0gales/Learning-C): Mi espacio para aprender programación en C, preparándome para las piscinas de Campus 42.
+  
+---
 ### 🧰 Herramientas y tecnologías
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
