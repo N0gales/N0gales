@@ -7,7 +7,7 @@
 
 💬 Soy Laura, también conocida como **N0gales**.  
 🔐 Inicié en el mundo de la seguridad desde el lado físico, pero fue al estudiar la **certificación de Seguridad Informática de Unitel** cuando decidí ir más allá.  
-🧠 Actualmente profundizo en programación y análisis de sistemas, con especial interés en **criptografía** y **purple team**.
+🧠 Actualmente profundizo en programación y análisis de sistemas, con especial interés en **criptografía** y **red team**.
 
 ---
 
