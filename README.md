@@ -56,7 +56,7 @@
 
 ### 📫 Contacto
 
-[![LinkedIn](www.linkedin.com/in/laura-nogales-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura_Nogales-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laura-nogales-/)
 📧 villacampaproyect@gmail.com
 
 ---
