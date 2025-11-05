@@ -14,7 +14,7 @@
 ### 🧪 Formación práctica y certificaciones
 
 - ✅ **Certificación en Seguridad Informática** – *Unitel*  
-- 🧬 **Piscina en Campus 42 Madrid** – completada con éxito  
+- 🧬 **Piscina en Campus 42 Madrid** – completada!
 - 🔒 **Palo Alto Networks Certifications**
   - ✅ **EDU-380: Cortex XSOAR – Automation and Orchestration** 
   - ✅ **EDU-210: Firewall Essentials – Configuration and Management** 
