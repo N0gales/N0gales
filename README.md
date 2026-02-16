@@ -13,6 +13,7 @@
 
 ### 🧪 Formación práctica y certificaciones
 
+- ⚔️ **Certificada en eJPT** *(INE / OffSec)*  
 - ✅ **Certificación en Seguridad Informática** – *Unitel*  
 - 🧬 **Piscina en Campus 42 Madrid** – completada!
 - 🔒 **Palo Alto Networks Certifications**
@@ -20,7 +21,6 @@
   - ✅ **EDU-210: Firewall Essentials – Configuration and Management** 
   - ✅ **EDU-330: Firewall – Troubleshooting** 
   - ✅ **EDU-220: Panorama – Managing Firewalls at Scale** 
-- ⚔️ **Certificada en eJPT** *(INE / OffSec)*  
 - 🧩 Práctica continua en **TryHackMe** y entornos **SOC/NOC** simulados  
 
 ---
