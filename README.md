@@ -27,9 +27,10 @@
 
 ### 📂 Repositorios destacados
 
-- [**Haking_etico**](https://github.com/N0gales/Haking_etico): Niveles de *Bandit* (OverTheWire) para práctica de hacking ético y fundamentos de Linux.  
+- [**ethical-hacking-notes**](https://github.com/N0gales/ethical-hacking-notes): Niveles de *Bandit* (OverTheWire) para práctica de hacking ético y fundamentos de Linux.  
 - [**Learning-C**](https://github.com/N0gales/Learning-C): Espacio personal de aprendizaje en C, base para proyectos técnicos y ejercicios de 42.
-
+- [**python-automation-basics**](https://github.com/N0gales/python-automation-basics): Proyectos en Python enfocados en automatización y análisis de datos estructurados, aplicando lógica de procesamiento, métricas agregadas y filtrado condicional.
+  
 ---
 
 ### 🧰 Herramientas y tecnologías
