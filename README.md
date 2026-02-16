@@ -42,15 +42,43 @@
 
 ### 🧰 Herramientas y Tecnologías
 
+#### 🖥️ Sistemas y Entornos
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+- Trabajo habitual en entornos Linux
+- Manejo de terminal y automatización básica con Bash
+
+---
+
+#### 🐍 Programación y Automatización
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+- Desarrollo de scripts para procesamiento de datos estructurados
+- Automatización básica orientada a análisis
+- Fundamentos de programación en C (memoria, estructuras, lógica de bajo nivel)
+
+---
+
+#### 🔎 Análisis y Seguridad
 ![Nmap](https://img.shields.io/badge/Nmap-004f8c?style=for-the-badge&logo=nmap&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00B3E6?style=for-the-badge&logo=tenable&logoColor=white)
 
-> 🧩 Familiarizada con: Kali Linux, Bash scripting, Nmap, Nessus, EternalBlue  
-> 🚧 En aprendizaje continuo: Python aplicado a seguridad, criptografía, análisis de incidentes
+- Escaneo de red y reconocimiento
+- Identificación de vulnerabilidades
+- Comprensión de explotación básica (EternalBlue)
+
+---
+
+#### 🛡️ Automatización y Orquestación
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-FF4C00?style=for-the-badge&logoColor=white)
+
+- Fundamentos en gestión y configuración de firewalls
+- Automatización con Cortex XSOAR
+- Gestión centralizada con Panorama
+
 
 ---
 
