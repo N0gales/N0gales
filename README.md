@@ -20,7 +20,7 @@
   - ✅ **EDU-210: Firewall Essentials – Configuration and Management** 
   - ✅ **EDU-330: Firewall – Troubleshooting** 
   - ✅ **EDU-220: Panorama – Managing Firewalls at Scale** 
-- ⚔️ **Preparación para eJPT** *(INE / OffSec)*  
+- ⚔️ **Certificada en eJPT** *(INE / OffSec)*  
 - 🧩 Práctica continua en **TryHackMe** y entornos **SOC/NOC** simulados  
 
 ---
