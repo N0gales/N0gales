@@ -1,39 +1,46 @@
 <h1 align="center">🛡️ N0gales — Laura Nogales</h1>
-<p align="center">Ciberseguridad Junior</p>
+<p align="center"><strong>Ciberseguridad Junior | Automatización & Análisis Técnico</strong></p>
 
 ---
 
 ### 👋 Sobre mí
 
 💬 Soy Laura, también conocida como **N0gales**.  
-🔐 Empecé en el mundo de la seguridad desde el ámbito físico, pero fue al cursar el **Certificado de Profesionalidad en Seguridad Informática (Unitel)** cuando descubrí mi verdadera vocación por la **ciberseguridad ofensiva y defensiva**.  
-🧠 Actualmente profundizo en **programación, criptografía y análisis de sistemas**, con especial interés en el enfoque **purple team** — donde convergen el *red* y *blue teaming*.
+🔐 Comencé en el ámbito de la seguridad física, pero fue tras cursar el **Certificado de Profesionalidad en Seguridad Informática (Unitel)** cuando decidí enfocar mi carrera hacia la **ciberseguridad ofensiva y defensiva**.  
+
+🧠 Actualmente profundizo en **programación, análisis de sistemas y automatización aplicada a seguridad**, con especial interés en entornos **Blue Team y Purple Team**, donde convergen detección, análisis y respuesta.
+
+---
+
+### 🚀 Proyectos Técnicos Destacados
+
+- [**ethical-hacking-notes**](https://github.com/N0gales/ethical-hacking-notes)  
+  Práctica de niveles *Bandit* (OverTheWire) enfocada en fundamentos Linux, escalado progresivo y pensamiento ofensivo estructurado.
+
+- [**Learning-C**](https://github.com/N0gales/Learning-C)  
+  Base en programación en C como fundamento para comprender bajo nivel, memoria y estructuras internas del sistema.
+
+- [**python-automation-basics**](https://github.com/N0gales/python-automation-basics)  
+  Scripts en Python orientados a automatización y análisis de datos estructurados, aplicables a procesamiento de logs, métricas agregadas y detección básica de comportamientos anómalos.
 
 ---
 
 ### 🧪 Formación práctica y certificaciones
 
-- ⚔️ **Certificada en eJPT** *(INE / OffSec)*  
-- ✅ **Certificación en Seguridad Informática** – *Unitel*  
-- 🧬 **Piscina en Campus 42 Madrid** – completada!
-- 🔒 **Palo Alto Networks Certifications**
-  - ✅ **EDU-380: Cortex XSOAR – Automation and Orchestration** 
-  - ✅ **EDU-210: Firewall Essentials – Configuration and Management** 
-  - ✅ **EDU-330: Firewall – Troubleshooting** 
-  - ✅ **EDU-220: Panorama – Managing Firewalls at Scale** 
-- 🧩 Práctica continua en **TryHackMe** y entornos **SOC/NOC** simulados  
+- ⚔️ **eJPT – INE / OffSec**
+- ✅ **Certificación en Seguridad Informática – Unitel**
+- 🧬 **Piscina Campus 42 Madrid** – completada
+- 🔒 **Palo Alto Networks**
+  - EDU-380: Cortex XSOAR – Automation and Orchestration  
+  - EDU-210: Firewall Essentials  
+  - EDU-330: Firewall Troubleshooting  
+  - EDU-220: Panorama – Managing Firewalls at Scale  
+
+- 🧩 Práctica continua en **TryHackMe** y entornos simulados **SOC/NOC**
 
 ---
 
-### 📂 Repositorios destacados
-
-- [**ethical-hacking-notes**](https://github.com/N0gales/ethical-hacking-notes): Niveles de *Bandit* (OverTheWire) para práctica de hacking ético y fundamentos de Linux.  
-- [**Learning-C**](https://github.com/N0gales/Learning-C): Espacio personal de aprendizaje en C, base para proyectos técnicos y ejercicios de 42.
-- [**python-automation-basics**](https://github.com/N0gales/python-automation-basics): Proyectos en Python enfocados en automatización y análisis de datos estructurados, aplicando lógica de procesamiento, métricas agregadas y filtrado condicional.
-  
----
-
-### 🧰 Herramientas y tecnologías
+### 🧰 Herramientas y Tecnologías
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -42,16 +49,25 @@
 ![Nmap](https://img.shields.io/badge/Nmap-004f8c?style=for-the-badge&logo=nmap&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00B3E6?style=for-the-badge&logo=tenable&logoColor=white)
 
-> 🧩 Familiarizada con: Kali Linux, Bash scripting, Nmap, Nessus, vulnerabilidad EternalBlue  
-> 🚧 En aprendizaje: C, Python, criptografía, gestión de incidentes
+> 🧩 Familiarizada con: Kali Linux, Bash scripting, Nmap, Nessus, EternalBlue  
+> 🚧 En aprendizaje continuo: Python aplicado a seguridad, criptografía, análisis de incidentes
 
 ---
 
-### 🎯 Objetivo profesional
+### 📈 Actualmente trabajando en
 
-📍 **Busco una posición junior en ciberseguridad**  
-🎯 Enfocada en **pentesting, automatización y defensa activa**  
-🔒 A medio plazo: especialización en **criptografía** y **respuesta ante incidentes**  
+- Desarrollo de scripts en Python para análisis de registros y automatización
+- Fundamentos de criptografía aplicada
+- Simulación de escenarios Blue Team
+- Mejora estructural de proyectos técnicos en GitHub
+
+---
+
+### 🎯 Objetivo Profesional
+
+📍 Busco una **posición junior en ciberseguridad**  
+🎯 Interesada en roles orientados a **automatización, análisis técnico y defensa activa**  
+🔒 A medio plazo: especialización en **criptografía y respuesta ante incidentes**
 
 ---
 
@@ -62,4 +78,4 @@
 
 ---
 
-<p align="center"><i>🔐 La seguridad protege tus sistemas. La privacidad, tu historia.</i></p>
+<p align="center"><i>🔐 La seguridad protege sistemas. La privacidad protege identidades.</i></p>
