@@ -1,91 +1,74 @@
 <h1 align="center">🛡️ N0gales — Laura Nogales</h1>
-<p align="center"><strong>Junior Cybersecurity | Security Automation & Detection</strong></p>
+<p align="center"><strong>Junior Cybersecurity | Security Automation & Technical Analysis</strong></p>
 
 ---
 
-## 👋 About Me
+## 👋 Sobre mí
 
-Cybersecurity junior transitioning from physical security into technical security engineering.
+Soy Laura (N0gales), con base en seguridad física y SMR y formación técnica en **Seguridad Informática**.
 
-Currently focused on:
+Actualmente enfoco mi desarrollo en:
 
-- Python-based security automation  
-- Log analysis & stateful detection modeling  
-- Event-driven logic and rule design  
-- Blue Team and Detection Engineering concepts  
+- Automatización de seguridad con Python  
+- Análisis de logs y modelado de detección  
+- Fundamentos Blue Team y detección de anomalías  
+- Comprensión técnica de sistemas (Linux y bajo nivel)
 
-I build small security tools to model system behavior and automate analysis processes.
-
----
-
-## 🚀 Technical Projects
-
-### 🔐 security-automation
-Development of security-focused Python tools, including:
-
-- Stateful login anomaly detector  
-- Failed login tracking per IP  
-- Basic brute-force detection logic  
-- Modular design (state builder + rule engine)  
-
-Planned improvements:
-- Risk scoring system  
-- Timestamp-aware detection  
-- Log file ingestion  
-
-### 🐍 python-automation-basics
-Foundational automation projects covering:
-
-- Structured data processing  
-- Conditional filtering  
-- Metric calculation (totals, averages, max/min)  
-- Logical modeling of real-world scenarios  
-
-### ⚔️ ethical-hacking-notes
-Linux fundamentals and structured offensive reasoning (OverTheWire – Bandit).
-
-### 🧠 Learning-C
-Low-level programming foundations (memory, structures, system logic).
+Construyo proyectos prácticos orientados a automatización y análisis aplicado a seguridad.
 
 ---
 
-## 🧰 Technical Stack
+## 🚀 Proyectos
 
-**Languages:** Python · C · Bash  
-**Systems:** Linux · Kali Linux  
-**Security Tools:** Nmap · Nessus  
-**Security Automation:** Cortex XSOAR fundamentals · Palo Alto Panorama  
+- 🔐 **security-automation**  
+  Desarrollo de herramientas en Python para análisis de eventos y detección básica de patrones sospechosos (ej. motor de detección de intentos de login).
 
-Core concepts applied:
-- Modular code design  
-- Stateful modeling  
-- Detection rule implementation  
-- Structured data parsing  
-- Automation workflows  
+- 🐍 **python-automation-basics**  
+  Automatización y procesamiento de datos estructurados (métricas, filtrado condicional, modelado lógico).
 
----
+- ⚔️ **ethical-hacking-notes**  
+  Fundamentos Linux y razonamiento ofensivo estructurado (OverTheWire).
 
-## 🧪 Certifications
-
-- eJPT (INE)  
-- Professional Certificate in Information Security  
-- Palo Alto Networks Training (Firewall, XSOAR, Panorama)  
-- 42 Madrid – Piscina  
+- 🧠 **Learning-C**  
+  Programación en C para comprensión de memoria y estructuras internas.
 
 ---
 
-## 🎯 Objective
+## 🧰 Stack Técnico
 
-Seeking a Junior role in:
+**Lenguajes:** Python · C · Bash  
+**Sistemas:** Linux · Kali  
+**Herramientas:** Nmap · Nessus  
+**Automatización:** Cortex XSOAR (fundamentos) · Panorama  
 
-- Security Automation  
-- Detection Engineering  
-- SOC (scripting-focused)  
-- Technical Security Engineering  
-
-Long-term focus: Cryptography & Incident Response.
+Enfoque técnico:
+- Diseño modular
+- Modelado de estado
+- Reglas de detección
+- Procesamiento estructurado de datos
+- Automatización básica de análisis
 
 ---
 
-<p align="center"><i>Security through structured thinking.</i></p>
+## 🧪 Formación
+
+- eJPT – INE  
+- Certificación en Seguridad Informática – Unitel  
+- Palo Alto Networks (Firewall, XSOAR, Panorama)  
+- 42 Madrid – Piscina
+- FP - Grado Medio en Sistemas Microinformátcos y Redes
+
+---
+
+## 🎯 Objetivo
+
+Busco una posición **Junior en Ciberseguridad** orientada a:
+
+- Automatización de seguridad  
+- Detection / SOC técnico  
+- Ingeniería de seguridad  
+
+---
+
+<p align="center"><i>Seguridad desde la lógica y la comprensión del sistema.</i></p>
 
