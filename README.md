@@ -1,62 +1,113 @@
 <h1 align="center">🛡️ N0gales — Laura Nogales</h1>
-<p align="center"><strong>Junior Cybersecurity | Security Automation & Technical Analysis</strong></p>
+<p align="center"><strong>Junior Cybersecurity | Security Automation & Detection Engineering</strong></p>
 
 ---
 
 ## 👋 Sobre mí
 
-Soy Laura (N0gales), con base en seguridad física y SMR y formación técnica en **Seguridad Informática**.
+Soy Laura (N0gales), con formación técnica en **Seguridad Informática** y base en sistemas (SMR), actualmente enfocando mi desarrollo hacia la automatización aplicada a ciberseguridad.
 
-Actualmente enfoco mi desarrollo en:
+Mi enfoque de aprendizaje se basa en:
 
-- Automatización de seguridad con Python  
-- Análisis de logs y modelado de detección  
-- Fundamentos Blue Team y detección de anomalías  
-- Comprensión técnica de sistemas (Linux y bajo nivel)
+- Identificar necesidades técnicas reales.
+- Diseñar soluciones automatizadas.
+- Construir herramientas funcionales en Python.
+- Comprender progresivamente la lógica detrás de su desarrollo.
 
-Construyo proyectos prácticos orientados a automatización y análisis aplicado a seguridad.
+Aunque aún estoy desarrollando mis conocimientos en programación, esto no me impide comenzar a automatizar tareas y construir tooling orientado a análisis de seguridad.
+
+Actualmente trabajo en:
+
+- Automatización de análisis de logs.
+- Modelado de reglas de detección.
+- Generación de tooling defensivo y ofensivo.
+- Procesamiento estructurado de datos.
+- Comprensión técnica de sistemas Linux.
 
 ---
 
 ## 🚀 Proyectos
 
-- 🔐 **security-automation**  
-  Desarrollo de herramientas en Python para análisis de eventos y detección básica de patrones sospechosos (ej. motor de detección de intentos de login).
+### 🔐 security-automation
+Repositorio principal de automatización aplicada a seguridad.
 
-- 🐍 **python-automation-basics**  
-  Automatización y procesamiento de datos estructurados (métricas, filtrado condicional, modelado lógico).
+Incluye herramientas desarrolladas para:
 
-- ⚔️ **ethical-hacking-notes**  
-  Fundamentos Linux y razonamiento ofensivo estructurado (OverTheWire).
+- Análisis de logs SSH.
+- Detección de patrones de autenticación anómalos.
+- Identificación de IPs sospechosas.
+- Generación de alertas básicas.
+- Generación de wordlists personalizadas para simulación de ataques de diccionario.
 
-- 🧠 **Learning-C**  
-  Programación en C para comprensión de memoria y estructuras internas.
+El repositorio diferencia entre:
+
+- `with_IA/` → Proyectos desarrollados con asistencia de IA como apoyo técnico.
+- `without_IA/` → Scripts desarrollados paso a paso para reforzar habilidades propias.
+
+Esto me permite implementar soluciones funcionales mientras desarrollo progresivamente mis capacidades como programadora.
+
+---
+
+### 🐍 python-automation-basics
+Scripts orientados a:
+
+- Procesamiento de datos estructurados.
+- Automatización de tareas repetitivas.
+- Modelado lógico de información.
+
+---
+
+### ⚔️ ethical-hacking-notes
+Apuntes técnicos y resolución de retos:
+
+- Linux fundamentals.
+- Pensamiento ofensivo estructurado.
+- OverTheWire.
+
+---
+
+### 🧠 Learning-C
+Desarrollo en C orientado a:
+
+- Comprensión de memoria.
+- Estructuras internas.
+- Funcionamiento a bajo nivel.
 
 ---
 
 ## 🧰 Stack Técnico
 
-**Lenguajes:** Python · C · Bash  
-**Sistemas:** Linux · Kali  
-**Herramientas:** Nmap · Nessus  
-**Automatización:** Cortex XSOAR (fundamentos) · Panorama  
+**Lenguajes:**  
+Python · C · Bash  
 
-Enfoque técnico:
-- Diseño modular
-- Modelado de estado
-- Reglas de detección
-- Procesamiento estructurado de datos
-- Automatización básica de análisis
+**Sistemas:**  
+Linux · Kali  
+
+**Herramientas:**  
+Nmap · Nessus  
+
+**Automatización:**  
+Cortex XSOAR (Fundamentos) · Panorama  
+
+**Conceptos aplicados:**
+
+- Parsing de logs.
+- Detección basada en reglas.
+- Modelado de comportamiento.
+- OSINT aplicado.
+- Automatización de análisis.
+- Generación de diccionarios personalizados.
+- Procesamiento estructurado de datos.
 
 ---
 
 ## 🧪 Formación
 
-- eJPT – INE  
+- eJPT – INE
 - Certificación en Seguridad Informática – Unitel  
 - Palo Alto Networks (Firewall, XSOAR, Panorama)  
-- 42 Madrid – Piscina
-- FP - Grado Medio en Sistemas Microinformátcos y Redes
+- 42 Madrid – Piscina  
+- FP - Grado Medio en Sistemas Microinformáticos y Redes  
 
 ---
 
@@ -64,11 +115,11 @@ Enfoque técnico:
 
 Busco una posición **Junior en Ciberseguridad** orientada a:
 
-- Automatización de seguridad  
-- Detection / SOC técnico  
-- Ingeniería de seguridad  
+- Security Automation  
+- Detection Engineering  
+- SOC Técnico  
+- Blue Team  
 
 ---
 
-<p align="center"><i>Seguridad desde la lógica y la comprensión del sistema.</i></p>
-
+<p align="center"><i>Aprendiendo a automatizar la seguridad desde la práctica.</i></p>
