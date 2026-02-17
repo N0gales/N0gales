@@ -5,67 +5,70 @@
 
 ## 👋 About Me
 
-I’m Laura (N0gales), transitioning from physical security into cybersecurity with a strong focus on:
+Cybersecurity junior transitioning from physical security into technical security engineering.
 
-- Security automation with Python  
-- Log analysis & stateful detection  
-- Blue Team and detection engineering concepts  
+Currently focused on:
 
-I focus on understanding system behavior and modeling security logic programmatically.
+- Python-based security automation  
+- Log analysis & stateful detection modeling  
+- Event-driven logic and rule design  
+- Blue Team and Detection Engineering concepts  
+
+I build small security tools to model system behavior and automate analysis processes.
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Technical Projects
 
 ### 🔐 security-automation
-Python-based security tooling, including:
+Development of security-focused Python tools, including:
 
-- Stateful Login Anomaly Detector
-- Failed login tracking per IP
-- Basic brute-force detection logic
-- Modular structure (state builder + rule engine)
+- Stateful login anomaly detector  
+- Failed login tracking per IP  
+- Basic brute-force detection logic  
+- Modular design (state builder + rule engine)  
 
-Future work:
-- Risk scoring
-- Timestamp-aware detection
-- CLI & log ingestion
+Planned improvements:
+- Risk scoring system  
+- Timestamp-aware detection  
+- Log file ingestion  
 
 ### 🐍 python-automation-basics
 Foundational automation projects covering:
 
-- Structured data processing
-- Conditional filtering
-- Metric calculation (totals, averages, max/min)
-- Logical modeling of real-world scenarios
+- Structured data processing  
+- Conditional filtering  
+- Metric calculation (totals, averages, max/min)  
+- Logical modeling of real-world scenarios  
 
 ### ⚔️ ethical-hacking-notes
-Linux fundamentals & structured offensive reasoning (OverTheWire – Bandit).
+Linux fundamentals and structured offensive reasoning (OverTheWire – Bandit).
 
 ### 🧠 Learning-C
-Low-level programming fundamentals (memory, structures, system logic).
+Low-level programming foundations (memory, structures, system logic).
 
 ---
 
 ## 🧰 Technical Stack
 
-**Languages:** Python, C, Bash  
-**Systems:** Linux, Kali Linux  
-**Security Tools:** Nmap, Nessus  
-**Automation & Orchestration:** Cortex XSOAR fundamentals, Palo Alto Panorama  
+**Languages:** Python · C · Bash  
+**Systems:** Linux · Kali Linux  
+**Security Tools:** Nmap · Nessus  
+**Security Automation:** Cortex XSOAR fundamentals · Palo Alto Panorama  
 
-Concepts applied:
-- Modular design
-- Event-based logic
-- Detection rule implementation
-- Structured data parsing
-- Automation workflows
+Core concepts applied:
+- Modular code design  
+- Stateful modeling  
+- Detection rule implementation  
+- Structured data parsing  
+- Automation workflows  
 
 ---
 
 ## 🧪 Certifications
 
 - eJPT (INE)  
-- Professional Certificate in Information Security – Unitel  
+- Professional Certificate in Information Security  
 - Palo Alto Networks Training (Firewall, XSOAR, Panorama)  
 - 42 Madrid – Piscina  
 
@@ -80,8 +83,9 @@ Seeking a Junior role in:
 - SOC (scripting-focused)  
 - Technical Security Engineering  
 
-Long-term: Cryptography & Incident Response.
+Long-term focus: Cryptography & Incident Response.
 
 ---
 
-<p align="center"><i>Security protects systems. Privacy protects people.</i></p>
+<p align="center"><i>Security through structured thinking.</i></p>
+
