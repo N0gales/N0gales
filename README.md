@@ -1,109 +1,168 @@
 <h1 align="center">🛡️ N0gales — Laura Nogales</h1>
-<p align="center"><strong>Ciberseguridad Junior | Automatización & Análisis Técnico</strong></p>
+<p align="center"><strong>Junior Cybersecurity | Security Automation & Detection Engineering</strong></p>
 
 ---
 
-### 👋 Sobre mí
+### 👋 About Me
 
-💬 Soy Laura, también conocida como **N0gales**.  
-🔐 Comencé en el ámbito de la seguridad física, pero fue tras cursar el **Certificado de Profesionalidad en Seguridad Informática (Unitel)** cuando decidí enfocar mi carrera hacia la **ciberseguridad ofensiva y defensiva**.  
+💬 I'm Laura, also known as **N0gales**.  
+🔐 I began in the field of physical security, but after completing the **Professional Certificate in Information Security (Unitel)**, I transitioned into cybersecurity with a strong focus on technical depth and structured analysis.
 
-🧠 Actualmente profundizo en **programación, análisis de sistemas y automatización aplicada a seguridad**, con especial interés en entornos **Blue Team y Purple Team**, donde convergen detección, análisis y respuesta.
+🧠 I am currently developing skills in:
 
----
+- Security automation with Python  
+- Log analysis and stateful detection modeling  
+- System behavior analysis  
+- Blue Team & Detection Engineering concepts  
 
-### 🚀 Proyectos Técnicos Destacados
-
-- [**ethical-hacking-notes**](https://github.com/N0gales/ethical-hacking-notes)  
-  Práctica de niveles *Bandit* (OverTheWire) enfocada en fundamentos Linux, escalado progresivo y pensamiento ofensivo estructurado.
-
-- [**Learning-C**](https://github.com/N0gales/Learning-C)  
-  Base en programación en C como fundamento para comprender bajo nivel, memoria y estructuras internas del sistema.
-
-- [**python-automation-basics**](https://github.com/N0gales/python-automation-basics)  
-  Scripts en Python orientados a automatización y análisis de datos estructurados, aplicables a procesamiento de logs, métricas agregadas y detección básica de comportamientos anómalos.
+My approach focuses on understanding how systems behave internally and how security logic can be modeled programmatically.
 
 ---
 
-### 🧪 Formación práctica y certificaciones
+## 🚀 Technical Projects
 
-- ⚔️ **eJPT – INE / OffSec**
-- ✅ **Certificación en Seguridad Informática – Unitel**
-- 🧬 **Piscina Campus 42 Madrid** – completada
-- 🔒 **Palo Alto Networks**
-  - EDU-380: Cortex XSOAR – Automation and Orchestration  
-  - EDU-210: Firewall Essentials  
-  - EDU-330: Firewall Troubleshooting  
-  - EDU-220: Panorama – Managing Firewalls at Scale  
+### 🔐 [security-automation](https://github.com/N0gales/security-automation)
+Security-focused Python automation projects.
 
-- 🧩 Práctica continua en **TryHackMe** y entornos simulados **SOC/NOC**
+Current highlights:
 
----
+- **Login Anomaly Detector**
+  - Stateful login tracking per IP
+  - Detection of multiple failed attempts
+  - Basic brute-force pattern detection
+  - Modular design (state builder + rule evaluator)
 
-### 🧰 Herramientas y Tecnologías
-
-#### 🖥️ Sistemas y Entornos
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-
-- Trabajo habitual en entornos Linux
-- Manejo de terminal y automatización básica con Bash
+Future roadmap:
+- Risk scoring engine
+- Event sequence modeling
+- Timestamp-aware detection
+- Log file ingestion
+- CLI implementation
 
 ---
 
-#### 🐍 Programación y Automatización
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+### 🐍 [python-automation-basics](https://github.com/N0gales/python-automation-basics)
+Foundational Python automation projects.
 
-- Desarrollo de scripts para procesamiento de datos estructurados
-- Automatización básica orientada a análisis
-- Fundamentos de programación en C (memoria, estructuras, lógica de bajo nivel)
+Focus areas:
+- Structured data processing (CSV-style)
+- Conditional filtering and aggregation
+- Metrics calculation (totals, averages, max/min)
+- Logical modeling of structured problems
 
----
-
-#### 🔎 Análisis y Seguridad
-![Nmap](https://img.shields.io/badge/Nmap-004f8c?style=for-the-badge&logo=nmap&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00B3E6?style=for-the-badge&logo=tenable&logoColor=white)
-
-- Escaneo de red y reconocimiento
-- Identificación de vulnerabilidades
-- Comprensión de explotación básica (EternalBlue)
+This repository represents the technical base supporting my security-oriented tooling.
 
 ---
 
-#### 🛡️ Automatización y Orquestación
-![Palo Alto](https://img.shields.io/badge/Palo_Alto-FF4C00?style=for-the-badge&logoColor=white)
+### ⚔️ [ethical-hacking-notes](https://github.com/N0gales/ethical-hacking-notes)
+Hands-on Linux and offensive fundamentals through OverTheWire (Bandit).
 
-- Fundamentos en gestión y configuración de firewalls
-- Automatización con Cortex XSOAR
-- Gestión centralizada con Panorama
-
-
----
-
-### 📈 Actualmente trabajando en
-
-- Desarrollo de scripts en Python para análisis de registros y automatización
-- Fundamentos de criptografía aplicada
-- Simulación de escenarios Blue Team
-- Mejora estructural de proyectos técnicos en GitHub
+Focus:
+- Privilege escalation logic
+- Linux command-line proficiency
+- Structured offensive reasoning
 
 ---
 
-### 🎯 Objetivo Profesional
+### 🧠 [Learning-C](https://github.com/N0gales/Learning-C)
+Low-level programming fundamentals in C.
 
-📍 Busco una **posición junior en ciberseguridad**  
-🎯 Interesada en roles orientados a **automatización, análisis técnico y defensa activa**  
-🔒 A medio plazo: especialización en **criptografía y respuesta ante incidentes**
+Focus:
+- Memory management
+- Data structures
+- System-level understanding
 
 ---
 
-### 📫 Contacto
+## 🧪 Certifications & Practical Training
+
+- ⚔️ **eJPT – INE**
+- ✅ **Professional Certificate in Information Security – Unitel**
+- 🧬 **Piscina 42 Madrid**
+- 🔒 **Palo Alto Networks Training**
+  - EDU-380: Cortex XSOAR – Automation & Orchestration
+  - EDU-210: Firewall Essentials
+  - EDU-330: Firewall Troubleshooting
+  - EDU-220: Panorama Management
+
+- 🧩 Continuous practice in:
+  - TryHackMe
+  - Simulated SOC environments
+  - Log analysis exercises
+
+---
+
+## 🧰 Technical Stack
+
+### 🖥️ Systems & Environments
+- Linux (daily usage)
+- Kali Linux
+- Bash scripting (basic automation)
+
+---
+
+### 🐍 Programming & Automation
+- Python (automation, data modeling, stateful analysis)
+- C (low-level fundamentals)
+- Bash
+
+Concepts applied:
+- Modular code design
+- Stateful modeling
+- Event-based logic
+- Detection rule implementation
+- Structured data parsing
+
+---
+
+### 🔎 Security & Analysis Tools
+- Nmap
+- Nessus
+- Basic vulnerability assessment workflows
+- Network reconnaissance
+- Firewall configuration (Palo Alto)
+
+---
+
+### 🛡️ Security Automation & Orchestration
+- Cortex XSOAR fundamentals
+- Panorama management
+- Firewall troubleshooting workflows
+- Basic automation concepts for SOC environments
+
+---
+
+## 📈 Currently Working On
+
+- Security-focused Python tooling
+- Risk scoring logic for anomaly detection
+- Detection rule design
+- Log parsing automation
+- Code modularization and project structuring
+
+---
+
+## 🎯 Professional Objective
+
+Seeking a **Junior position in Cybersecurity**, ideally in:
+
+- Security Automation
+- Detection Engineering
+- SOC Analyst (with scripting focus)
+- Technical Security Engineering
+
+Long-term focus:
+- Cryptography
+- Incident Response
+- Advanced detection systems
+
+---
+
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura_Nogales-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laura-nogales-/)
 [![Email](https://img.shields.io/badge/Email-villacampaproyect%40gmail.com-orange?style=for-the-badge&logo=gmail)](mailto:villacampaproyect@gmail.com)
 
 ---
 
-<p align="center"><i>🔐 La seguridad protege sistemas. La privacidad protege identidades.</i></p>
+<p align="center"><i>🔐 Security protects systems. Privacy protects people.</i></p>
